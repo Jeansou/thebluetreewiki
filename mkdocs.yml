@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+site_name: 蓝树林服务器玩法帮助
+site_description: 蓝树林我的世界服务器所有玩法帮助，带你无障碍玩耍
+site_url: https://docs.trees.blue
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: 点击切换至正常模式
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: 点击切换至夜间模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: light blue
+      toggle:
+        icon: material/brightness-3
+        name: 点击遵循浏览器设置
+  font:
+    text: Noto Sans SC
+    code: Source Code Pro
+  language: zh
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.ico
+  icon:
+    repo: fontawesome/solid/tree
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+plugins:
+  - search
+copyright: Copyright &copy; 2016 - 2025 蓝树林我的世界服务器
+extra:
+  social:
+    - icon: material/web
+      link: https://mc.trees.blue
+      name: 服务器官网
+    - icon: material/map
+      link: https://map.trees.blue
+      name: 服务器在线地图
+    - icon: simple/github
+      link: https://github.com/Jeansou/thebluetreewiki
+      name: 提供新玩法帮助
+    - icon: fontawesome/solid/coins
+      link: https://afdian.com/a/AquaLush
+      name: 赞助服务器
+repo_url: https://github.com/Jeansou/thebluetreewiki
+repo_name: 玩法帮助项目
