@@ -38,8 +38,10 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+    - content.tooltips
 plugins:
   - search
+  - glightbox
 copyright: Copyright &copy; 2016 - 2025 蓝树林我的世界服务器
 extra:
   social:
@@ -57,3 +59,17 @@ extra:
       name: 赞助服务器
 repo_url: https://github.com/Jeansou/thebluetreewiki
 repo_name: 玩法帮助项目
+nav:
+  - 首页: index.md
+  - 大厅:
+    - lobby/index.md
+    - 传送 NPC: lobby/teleport.md
+    - 矿区: lobby/mine.md
+    - 酒吧: lobby/barman.md
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
