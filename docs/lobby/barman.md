@@ -23,4 +23,4 @@ description: 这里是有关大厅的帮助
 
 在酒吧前台，你可以买到各种预制好的酒类，有的会让你健步如飞，也有的会让你生不如死
 
-当然，你也可以在服内自行<abbr title="使用 BreweryX">酿酒</abbr>，具体见酿酒的相关内容
+当然，你也可以在服内自行<abbr title="使用 BreweryX">酿酒</abbr>，具体见[酿酒](../survival/brewing/index.md)的相关内容

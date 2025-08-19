@@ -1,0 +1,105 @@
+.mcui {
+    display: inline-block;
+    position: relative;
+    background-color: #C6C6C6;
+    border: 2px solid;
+    border-color: #DBDBDB #5B5B5B #5B5B5B #DBDBDB;
+    padding: 6px;
+    text-align: left;
+    white-space: nowrap;
+    /* vertical-align:bottom; */
+}
+
+.mcui-Crafting_Table > *,.mcui-Furnace > * {
+    display: inline-block;
+    vertical-align: top
+}
+
+.mcui-Crafting_Table .mcui-row {
+    display: block
+}
+
+.mcui-Crafting_Table > .mcui-arrow {
+    background: url(Grid_layout_Arrow.webp) no-repeat;
+    width: 32px;
+    height: 26px;
+    margin: 40px 4px 0
+}
+
+.mcui-Crafting_Table > .mcui-output {
+    margin-top: 28px
+}
+
+.mcui-Crafting_Table > .mcui-icons {
+    position: absolute;
+    top: 6px;
+    right: 6px
+}
+
+.mcui-Crafting_Table .mcui-shapeless,.mcui-Crafting_Table .mcui-fixed,.mcui-Crafting_Table .mcui-custom,.mcui-Crafting_Table .mcui-transmute {
+    display: inline-block;
+    background-repeat: no-repeat;
+    width: 19px;
+    height: 15px;
+    cursor: help
+}
+
+.invslot {
+    position: relative;
+    display: inline-block;
+    background: #8B8B8B no-repeat center center / 32px 32px;
+    border: 2px solid;
+    border-color: #373737 #FFF #FFF #373737;
+    box-sizing: content-box;
+    width: 32px;
+    height: 32px;
+    font-size: 16px;
+    line-height: 1;
+    text-align: left;
+    vertical-align: bottom
+}
+
+.invslot::before,.invslot::after {
+    content: "";
+    position: absolute;
+    background-color: #8B8B8B;
+    height: 2px;
+    width: 2px;
+    pointer-events: none
+}
+
+.invslot::before {
+    bottom: -2px;
+    left: -2px
+}
+
+.invslot::after {
+    top: -2px;
+    right: -2px
+}
+
+.invslot-large {
+    padding: 8px
+}
+
+
+.invslot-item,.invslot-item a:first-child {
+    position: relative;
+    display: block;
+    margin: -2px;
+    padding: 2px;
+    width: 32px;
+    height: 32px
+}
+
+.invslot-stacksize {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    font-family: Unifont-subset,Courier,sans-serif;
+    font-weight: normal !important;
+    color: #FFF !important;
+    text-shadow: 2px 2px 0 #3F3F3F;
+    filter: dropshadow(color=#3F3F3F,offx=2,offy=2);
+    z-index: 2
+}
