@@ -24,7 +24,6 @@ theme:
         icon: material/brightness-3
         name: 点击遵循浏览器设置
   font:
-    text: Noto Sans SC
     code: Source Code Pro
   language: zh
   logo: assets/images/logo.png
@@ -44,6 +43,7 @@ theme:
 plugins:
   - search
   - glightbox
+  - macros
 copyright: Copyright &copy; 2016 - 2025 蓝树林我的世界服务器
 extra:
   social:
@@ -81,6 +81,11 @@ nav:
     - 大型动态门:
       - survival/bigdoors/index.md
       - 建造教程: survival/bigdoors/build.md
+    - 魔法系统:
+      - survival/magic/index.md
+      - 法杖进度: survival/magic/progression.md
+      - 法术点: survival/magic/spellpoints.md
+      - survival/magic/crafting.md
   - 实用工具:
     - utilities/index.md
     - 盔甲架编辑器: utilities/ArmorStandEditor.md

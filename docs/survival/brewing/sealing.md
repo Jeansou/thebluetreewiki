@@ -12,86 +12,13 @@ description: 这里是有关酿造密封的帮助
 	
 	相似配方的酿造品密封后将成为同一个酿造品。
 
-<div>
-  <span class="mcui mcui-Crafting_Table">
-    <span class="mcui-input">
-      <span class="mcui-row">
-        <span class="invslot">
-		  <span class="invslot-item">
-            <span>
-              <a target="_blank" href="https://zh.minecraft.wiki/w/%E7%8E%BB%E7%92%83%E7%93%B6">
-                <img title="玻璃瓶" alt="" src="/stylesheets/icons/Glass_Bottle.png" decoding="async" loading="lazy" width="32" height="32" data-file-width="32" data-file-height="32"></a>
-            </span>
-          </span>
-		</span>
-        <span class="invslot">
-		  <span class="invslot-item">
-            <span>
-              <a target="_blank" href="https://zh.minecraft.wiki/w/%E7%8E%BB%E7%92%83%E7%93%B6">
-                <img title="玻璃瓶" alt="" src="/stylesheets/icons/Glass_Bottle.png" decoding="async" loading="lazy" width="32" height="32" data-file-width="32" data-file-height="32"></a>
-            </span>
-          </span>
-		</span>
-        <span class="invslot">
-		
-		</span>
-      </span>
-      <span class="mcui-row">
-        <span class="invslot">
-		  <span class="invslot-item">
-            <span>
-              <a target="_blank" href="https://zh.minecraft.wiki/w/%E6%9C%A8%E6%9D%BF">
-                <img title="橡木木板" alt="" src="/stylesheets/icons/Oak_Planks.png" decoding="async" loading="lazy" width="32" height="32" data-file-width="32" data-file-height="32"></a>
-            </span>
-          </span>
-		</span>
-        <span class="invslot">
-          <span class="invslot-item">
-            <span>
-              <a target="_blank" href="https://zh.minecraft.wiki/w/%E6%9C%A8%E6%9D%BF">
-                <img title="橡木木板" alt="" src="/stylesheets/icons/Oak_Planks.png" decoding="async" loading="lazy" width="32" height="32" data-file-width="32" data-file-height="32"></a>
-            </span>
-          </span>
-        </span>
-        <span class="invslot">
-		
-		</span>
-      </span>
-      <span class="mcui-row">
-        <span class="invslot">
-		  <span class="invslot-item">
-            <span>
-              <a target="_blank" href="https://zh.minecraft.wiki/w/%E6%9C%A8%E6%9D%BF">
-                <img title="橡木木板" alt="" src="/stylesheets/icons/Oak_Planks.png" decoding="async" loading="lazy" width="32" height="32" data-file-width="32" data-file-height="32"></a>
-            </span>
-          </span>
-		</span>
-        <span class="invslot">
-		  <span class="invslot-item">
-            <span>
-              <a target="_blank" href="https://zh.minecraft.wiki/w/%E6%9C%A8%E6%9D%BF">
-                <img title="橡木木板" alt="" src="/stylesheets/icons/Oak_Planks.png" decoding="async" loading="lazy" width="32" height="32" data-file-width="32" data-file-height="32"></a>
-            </span>
-          </span>
-		</span>
-        <span class="invslot">
-		
-		</span>
-      </span>
-    </span>
-    <span class="mcui-arrow">
-      <br></span>
-    <span class="mcui-output">
-      <span class="invslot invslot-large">
-        <span class="invslot-item">
-          <span>
-            <a href="#">
-              <img title="冲泡密封台" alt="" src="/stylesheets/icons/Smoker.png" decoding="async" loading="lazy" width="32" height="32" data-file-width="32" data-file-height="32"></a>
-          </span>
-          <a href="#">
-            <span class="invslot-stacksize">1</span></a>
-        </span>
-      </span>
-    </span>
-  </span>
-</div>
+## 合成配方
+<p></p>
+{{- recipe(
+  [
+    [{"name":"玻璃瓶","link":"https://zh.minecraft.wiki/w/%E7%8E%BB%E7%92%83%E7%93%B6","icon":"/stylesheets/icons/Glass_Bottle.png"}, {"name":"玻璃瓶","link":"https://zh.minecraft.wiki/w/%E7%8E%BB%E7%92%83%E7%93%B6","icon":"/stylesheets/icons/Glass_Bottle.png"}, None],
+    [{"name":"橡木木板","link":"https://zh.minecraft.wiki/w/%E6%9C%A8%E6%9D%BF","icon":"/stylesheets/icons/Oak_Planks.png"}, {"name":"橡木木板","link":"https://zh.minecraft.wiki/w/%E6%9C%A8%E6%9D%BF","icon":"/stylesheets/icons/Oak_Planks.png"}, None],
+    [{"name":"橡木木板","link":"https://zh.minecraft.wiki/w/%E6%9C%A8%E6%9D%BF","icon":"/stylesheets/icons/Oak_Planks.png"}, {"name":"橡木木板","link":"https://zh.minecraft.wiki/w/%E6%9C%A8%E6%9D%BF","icon":"/stylesheets/icons/Oak_Planks.png"}, None]
+  ],
+  {"name":"冲泡密封台","link":"#","icon":"/stylesheets/icons/Smoker.png"}
+) -}}
