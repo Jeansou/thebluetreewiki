@@ -189,7 +189,7 @@ description: 这里是有关法术合成的帮助
       {"name":"小麦","link":"https://zh.minecraft.wiki/w/小麦","icon":"/stylesheets/icons/Wheat.png"}
     ]
   ],
-  {"name":"魔法扫帚","link":"#","icon":"/stylesheets/icons/broomStick.jpg"}
+  {"name":"魔法扫帚","link":"#","icon":"/stylesheets/icons/broomstick.jpg"}
 ) -}}
 <p></p>
 ## 照相机
@@ -258,7 +258,7 @@ description: 这里是有关法术合成的帮助
       None
     ]
   ],
-  {"name":"绿宝石剑","link":"#","icon":"/stylesheets/icons/Diamond_sword.png"}
+  {"name":"绿宝石剑","link":"#","icon":"/stylesheets/icons/Diamond_Sword.png"}
 ) -}}
 <p></p>
 ## 末地指南针
@@ -362,7 +362,7 @@ description: 这里是有关法术合成的帮助
       None
     ]
   ],
-  {"name":"魔法弓","link":"#","icon":"/stylesheets/icons/bow.png"}
+  {"name":"魔法弓","link":"#","icon":"/stylesheets/icons/Bow.png"}
 ) -}}
 <p></p>
 ## 魔法帽
