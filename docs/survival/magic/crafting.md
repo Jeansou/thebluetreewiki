@@ -562,7 +562,7 @@ description: 这里是有关法术合成的帮助
     ],
     [None, None, None]
   ],
-  {"name":"法术书","link":"#","icon":"/stylesheets/icons/spellBook.jpg"}
+  {"name":"法术书","link":"#","icon":"/stylesheets/icons/spellbook.jpg"}
 ) -}}
 <p></p>
 ## 魔力护符
