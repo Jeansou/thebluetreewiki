@@ -683,7 +683,7 @@ description: 这里是有关法术合成的帮助
   {"name":"巫师围巾","link":"#","icon":"/stylesheets/icons/Chainmail_Helmet.png"}
 ) -}}
 <p></p>
-## 巫师
+## 巫师裤子
 <p></p>
 {{- recipe(
   [
@@ -703,6 +703,6 @@ description: 这里是有关法术合成的帮助
       {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"}
     ]
   ],
-  {"name":"巫师护腿","link":"#","icon":"/stylesheets/icons/Chainmail_Leggings.png"}
+  {"name":"巫师裤子","link":"#","icon":"/stylesheets/icons/Chainmail_Leggings.png"}
 ) -}}
 <p></p>
