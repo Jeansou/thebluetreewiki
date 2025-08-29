@@ -153,13 +153,13 @@ description: 这里是有关法术合成的帮助
 {{- recipe(
   [
     [
-      {"name":"粘液球","link":"https://zh.minecraft.wiki/w/%E9%BB%8F%E6%B6%B2%E7%90%83","icon":"/stylesheets/icons/slime_ball.png"},
-      {"name":"粘液球","link":"https://zh.minecraft.wiki/w/%E9%BB%8F%E6%B6%B2%E7%90%83","icon":"/stylesheets/icons/slime_ball.png"},
-      {"name":"粘液球","link":"https://zh.minecraft.wiki/w/%E9%BB%8F%E6%B6%B2%E7%90%83","icon":"/stylesheets/icons/slime_ball.png"}
+      {"name":"粘液球","link":"https://zh.minecraft.wiki/w/%E9%BB%8F%E6%B6%B2%E7%90%83","icon":"/stylesheets/icons/Slime_Ball.png"},
+      {"name":"粘液球","link":"https://zh.minecraft.wiki/w/%E9%BB%8F%E6%B6%B2%E7%90%83","icon":"/stylesheets/icons/Slime_Ball.png"},
+      {"name":"粘液球","link":"https://zh.minecraft.wiki/w/%E9%BB%8F%E6%B6%B2%E7%90%83","icon":"/stylesheets/icons/Slime_Ball.png"}
     ],
     [
       None,
-      {"name":"鞘翅","link":"https://zh.minecraft.wiki/w/%E9%9E%98%E7%BF%85","icon":"/stylesheets/icons/elytra.png"},
+      {"name":"鞘翅","link":"https://zh.minecraft.wiki/w/%E9%9E%98%E7%BF%85","icon":"/stylesheets/icons/Elytra.png"},
       None
     ],
     [None, None, None]
@@ -175,21 +175,21 @@ description: 这里是有关法术合成的帮助
   [
     [
       None,
-      {"name":"木棍","link":"https://zh.minecraft.wiki/w/木棍","icon":"/stylesheets/icons/stick.png"},
+      {"name":"木棍","link":"https://zh.minecraft.wiki/w/木棍","icon":"/stylesheets/icons/Stick.png"},
       None
     ],
     [
       None,
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
       None
     ],
     [
-      {"name":"小麦","link":"https://zh.minecraft.wiki/w/小麦","icon":"/stylesheets/icons/wheat.png"},
-	  {"name":"幻翼膜","link":"https://zh.minecraft.wiki/w/幻翼膜","icon":"/stylesheets/icons/phantom_membrane.png"},
-      {"name":"小麦","link":"https://zh.minecraft.wiki/w/小麦","icon":"/stylesheets/icons/wheat.png"}
+      {"name":"小麦","link":"https://zh.minecraft.wiki/w/小麦","icon":"/stylesheets/icons/Wheat.png"},
+	  {"name":"幻翼膜","link":"https://zh.minecraft.wiki/w/幻翼膜","icon":"/stylesheets/icons/Phantom_Membrane.png"},
+      {"name":"小麦","link":"https://zh.minecraft.wiki/w/小麦","icon":"/stylesheets/icons/Wheat.png"}
     ]
   ],
-  {"name":"魔法扫帚","link":"#","icon":"/stylesheets/icons/broomstick.jpg"}
+  {"name":"魔法扫帚","link":"#","icon":"/stylesheets/icons/broomStick.jpg"}
 ) -}}
 <p></p>
 ## 照相机
@@ -200,12 +200,12 @@ description: 这里是有关法术合成的帮助
   [
     [None, None, None],
     [
-      {"name":"阳光探测器","link":"https://zh.minecraft.wiki/w/阳光探测器","icon":"/stylesheets/icons/daylight_detector.png"},
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
-      {"name":"玻璃","link":"https://zh.minecraft.wiki/w/玻璃","icon":"/stylesheets/icons/glass.png"}
+      {"name":"阳光探测器","link":"https://zh.minecraft.wiki/w/阳光探测器","icon":"/stylesheets/icons/Daylight_Detector.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
+      {"name":"玻璃","link":"https://zh.minecraft.wiki/w/玻璃","icon":"/stylesheets/icons/Glass.png"}
     ],
     [
-      {"name":"发射器","link":"https://zh.minecraft.wiki/w/发射器","icon":"/stylesheets/icons/dispenser.png"},
+      {"name":"发射器","link":"https://zh.minecraft.wiki/w/发射器","icon":"/stylesheets/icons/Dispenser.png"},
       None,
       None
     ]
@@ -220,19 +220,19 @@ description: 这里是有关法术合成的帮助
 {{- recipe(
   [
     [
-      {"name":"淡蓝色染色玻璃","link":"https://zh.minecraft.wiki/w/淡蓝色染色玻璃","icon":"/stylesheets/icons/light_blue_stained_glass.png"},
-      {"name":"淡蓝色染色玻璃","link":"https://zh.minecraft.wiki/w/淡蓝色染色玻璃","icon":"/stylesheets/icons/light_blue_stained_glass.png"},
-      {"name":"淡蓝色染色玻璃","link":"https://zh.minecraft.wiki/w/淡蓝色染色玻璃","icon":"/stylesheets/icons/light_blue_stained_glass.png"}
+      {"name":"淡蓝色染色玻璃","link":"https://zh.minecraft.wiki/w/淡蓝色染色玻璃","icon":"/stylesheets/icons/Light_Blue_Stained_Glass.png"},
+      {"name":"淡蓝色染色玻璃","link":"https://zh.minecraft.wiki/w/淡蓝色染色玻璃","icon":"/stylesheets/icons/Light_Blue_Stained_Glass.png"},
+      {"name":"淡蓝色染色玻璃","link":"https://zh.minecraft.wiki/w/淡蓝色染色玻璃","icon":"/stylesheets/icons/Light_Blue_Stained_Glass.png"}
     ],
     [
-      {"name":"淡蓝色染色玻璃","link":"https://zh.minecraft.wiki/w/淡蓝色染色玻璃","icon":"/stylesheets/icons/light_blue_stained_glass.png"},
-      {"name":"潮涌核心","link":"https://zh.minecraft.wiki/w/潮涌核心","icon":"/stylesheets/icons/conduit.png"},
-      {"name":"淡蓝色染色玻璃","link":"https://zh.minecraft.wiki/w/淡蓝色染色玻璃","icon":"/stylesheets/icons/light_blue_stained_glass.png"}
+      {"name":"淡蓝色染色玻璃","link":"https://zh.minecraft.wiki/w/淡蓝色染色玻璃","icon":"/stylesheets/icons/Light_Blue_Stained_Glass.png"},
+      {"name":"潮涌核心","link":"https://zh.minecraft.wiki/w/潮涌核心","icon":"/stylesheets/icons/Conduit.png"},
+      {"name":"淡蓝色染色玻璃","link":"https://zh.minecraft.wiki/w/淡蓝色染色玻璃","icon":"/stylesheets/icons/Light_Blue_Stained_Glass.png"}
     ],
     [
-      {"name":"淡蓝色染色玻璃","link":"https://zh.minecraft.wiki/w/淡蓝色染色玻璃","icon":"/stylesheets/icons/light_blue_stained_glass.png"},
+      {"name":"淡蓝色染色玻璃","link":"https://zh.minecraft.wiki/w/淡蓝色染色玻璃","icon":"/stylesheets/icons/Light_Blue_Stained_Glass.png"},
       None,
-      {"name":"淡蓝色染色玻璃","link":"https://zh.minecraft.wiki/w/淡蓝色染色玻璃","icon":"/stylesheets/icons/light_blue_stained_glass.png"}
+      {"name":"淡蓝色染色玻璃","link":"https://zh.minecraft.wiki/w/淡蓝色染色玻璃","icon":"/stylesheets/icons/Light_Blue_Stained_Glass.png"}
     ]
   ],
   {"name":"深潜头盔","link":"#","icon":"/stylesheets/icons/divinghelmet.jpg"}
@@ -243,22 +243,22 @@ description: 这里是有关法术合成的帮助
 {{- recipe(
   [
     [
-      {"name":"绿宝石","link":"https://zh.minecraft.wiki/w/绿宝石","icon":"/stylesheets/icons/emerald.png"},
+      {"name":"绿宝石","link":"https://zh.minecraft.wiki/w/绿宝石","icon":"/stylesheets/icons/Emerald.png"},
       None,
       None
     ],
     [
-      {"name":"绿宝石","link":"https://zh.minecraft.wiki/w/绿宝石","icon":"/stylesheets/icons/emerald.png"},
+      {"name":"绿宝石","link":"https://zh.minecraft.wiki/w/绿宝石","icon":"/stylesheets/icons/Emerald.png"},
       None,
       None
     ],
     [
-      {"name":"木棍","link":"https://zh.minecraft.wiki/w/木棍","icon":"/stylesheets/icons/stick.png"},
+      {"name":"木棍","link":"https://zh.minecraft.wiki/w/木棍","icon":"/stylesheets/icons/Stick.png"},
       None,
       None
     ]
   ],
-  {"name":"绿宝石剑","link":"#","icon":"/stylesheets/icons/diamond_sword.png"}
+  {"name":"绿宝石剑","link":"#","icon":"/stylesheets/icons/Diamond_sword.png"}
 ) -}}
 <p></p>
 ## 末地指南针
@@ -269,17 +269,17 @@ description: 这里是有关法术合成的帮助
   [
     [
       None,
-      {"name":"末影珍珠","link":"https://zh.minecraft.wiki/w/末影珍珠","icon":"/stylesheets/icons/ender_pearl.png"},
+      {"name":"末影珍珠","link":"https://zh.minecraft.wiki/w/末影珍珠","icon":"/stylesheets/icons/Ender_Pearl.png"},
       None
     ],
     [
-      {"name":"末影珍珠","link":"https://zh.minecraft.wiki/w/末影珍珠","icon":"/stylesheets/icons/ender_pearl.png"},
-      {"name":"指南针","link":"https://zh.minecraft.wiki/w/指南针","icon":"/stylesheets/icons/compass.gif"},
-      {"name":"末影珍珠","link":"https://zh.minecraft.wiki/w/末影珍珠","icon":"/stylesheets/icons/ender_pearl.png"}
+      {"name":"末影珍珠","link":"https://zh.minecraft.wiki/w/末影珍珠","icon":"/stylesheets/icons/Ender_Pearl.png"},
+      {"name":"指南针","link":"https://zh.minecraft.wiki/w/指南针","icon":"/stylesheets/icons/Compass.gif"},
+      {"name":"末影珍珠","link":"https://zh.minecraft.wiki/w/末影珍珠","icon":"/stylesheets/icons/Ender_Pearl.png"}
     ],
     [
       None,
-      {"name":"末影珍珠","link":"https://zh.minecraft.wiki/w/末影珍珠","icon":"/stylesheets/icons/ender_pearl.png"},
+      {"name":"末影珍珠","link":"https://zh.minecraft.wiki/w/末影珍珠","icon":"/stylesheets/icons/Ender_Pearl.png"},
       None
     ]
   ],
@@ -293,19 +293,19 @@ description: 这里是有关法术合成的帮助
 {{- recipe(
   [
     [
-      {"name":"白色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/white_wool.png"},
+      {"name":"白色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/White_Wool.png"},
       None,
-      {"name":"白色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/white_wool.png"}
+      {"name":"白色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/White_Wool.png"}
     ],
     [
-      {"name":"火焰弹","link":"https://zh.minecraft.wiki/w/火焰弹","icon":"/stylesheets/icons/fire_charge.png"},
+      {"name":"火焰弹","link":"https://zh.minecraft.wiki/w/火焰弹","icon":"/stylesheets/icons/Fire_Charge.png"},
       None,
-      {"name":"火焰弹","link":"https://zh.minecraft.wiki/w/火焰弹","icon":"/stylesheets/icons/fire_charge.png"}
+      {"name":"火焰弹","link":"https://zh.minecraft.wiki/w/火焰弹","icon":"/stylesheets/icons/Fire_Charge.png"}
     ],
     [
-      {"name":"羽毛","link":"https://zh.minecraft.wiki/w/羽毛","icon":"/stylesheets/icons/feather.png"},
+      {"name":"羽毛","link":"https://zh.minecraft.wiki/w/羽毛","icon":"/stylesheets/icons/Feather.png"},
       None,
-      {"name":"羽毛","link":"https://zh.minecraft.wiki/w/羽毛","icon":"/stylesheets/icons/feather.png"}
+      {"name":"羽毛","link":"https://zh.minecraft.wiki/w/羽毛","icon":"/stylesheets/icons/Feather.png"}
     ]
   ],
   {"name":"闪光靴子","link":"#","icon":"/stylesheets/icons/Chainmail_Boots.png"}
@@ -322,19 +322,19 @@ description: 这里是有关法术合成的帮助
 {{- recipe(
   [
     [
-      {"name":"白色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/white_wool.png"},
-      {"name":"白色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/white_wool.png"},
-      {"name":"白色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/white_wool.png"}
+      {"name":"白色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/White_Wool.png"},
+      {"name":"白色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/White_Wool.png"},
+      {"name":"白色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/White_Wool.png"}
     ],
     [
-      {"name":"白色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/white_wool.png"},
-      {"name":"下界之星","link":"https://zh.minecraft.wiki/w/下界之星","icon":"/stylesheets/icons/nether_star.png"},
-      {"name":"白色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/white_wool.png"}
+      {"name":"白色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/White_Wool.png"},
+      {"name":"下界之星","link":"https://zh.minecraft.wiki/w/下界之星","icon":"/stylesheets/icons/Nether_Star.png"},
+      {"name":"白色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/White_Wool.png"}
     ],
     [
-      {"name":"末影珍珠","link":"https://zh.minecraft.wiki/w/末影珍珠","icon":"/stylesheets/icons/ender_pearl.png"},
-      {"name":"下界之星","link":"https://zh.minecraft.wiki/w/下界之星","icon":"/stylesheets/icons/nether_star.png"},
-      {"name":"末影珍珠","link":"https://zh.minecraft.wiki/w/末影珍珠","icon":"/stylesheets/icons/ender_pearl.png"}
+      {"name":"末影珍珠","link":"https://zh.minecraft.wiki/w/末影珍珠","icon":"/stylesheets/icons/Ender_Pearl.png"},
+      {"name":"下界之星","link":"https://zh.minecraft.wiki/w/下界之星","icon":"/stylesheets/icons/Nether_Star.png"},
+      {"name":"末影珍珠","link":"https://zh.minecraft.wiki/w/末影珍珠","icon":"/stylesheets/icons/Ender_Pearl.png"}
     ]
   ],
   {"name":"隐形斗篷","link":"#","icon":"/stylesheets/icons/invisiblecloak.jpg"}
@@ -347,17 +347,17 @@ description: 这里是有关法术合成的帮助
 {{- recipe(
   [
     [
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
       None,
       None
     ],
     [
-      {"name":"弓","link":"https://zh.minecraft.wiki/w/弓","icon":"/stylesheets/icons/bow.png"},
+      {"name":"弓","link":"https://zh.minecraft.wiki/w/弓","icon":"/stylesheets/icons/Bow.png"},
       None,
       None
     ],
     [
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
       None,
       None
     ]
@@ -372,19 +372,19 @@ description: 这里是有关法术合成的帮助
 {{- recipe(
   [
     [
-      {"name":"蓝色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/blue_wool.png"},
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
-      {"name":"蓝色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/blue_wool.png"}
+      {"name":"蓝色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/Blue_Wool.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
+      {"name":"蓝色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/Blue_Wool.png"}
     ],
     [
-      {"name":"蓝色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/blue_wool.png"},
+      {"name":"蓝色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/Blue_Wool.png"},
       None,
-      {"name":"蓝色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/blue_wool.png"}
+      {"name":"蓝色羊毛","link":"https://zh.minecraft.wiki/w/羊毛","icon":"/stylesheets/icons/Blue_Wool.png"}
     ],
     [
-      {"name":"末地烛","link":"https://zh.minecraft.wiki/w/末地烛","icon":"/stylesheets/icons/end_rod.png"},
+      {"name":"末地烛","link":"https://zh.minecraft.wiki/w/末地烛","icon":"/stylesheets/icons/End_Rod.png"},
       None,
-      {"name":"末地烛","link":"https://zh.minecraft.wiki/w/末地烛","icon":"/stylesheets/icons/end_rod.png"}
+      {"name":"末地烛","link":"https://zh.minecraft.wiki/w/末地烛","icon":"/stylesheets/icons/End_Rod.png"}
     ]
   ],
   {"name":"魔法帽","link":"#","icon":"/stylesheets/icons/magichat.jpg"}
@@ -397,17 +397,17 @@ description: 这里是有关法术合成的帮助
 {{- recipe(
   [
     [
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
       None,
       None
     ],
     [
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
       None,
       None
     ],
     [
-      {"name":"木棍","link":"https://zh.minecraft.wiki/w/木棍","icon":"/stylesheets/icons/stick.png"},
+      {"name":"木棍","link":"https://zh.minecraft.wiki/w/木棍","icon":"/stylesheets/icons/Stick.png"},
       None,
       None
     ]
@@ -422,12 +422,12 @@ description: 这里是有关法术合成的帮助
 {{- recipe(
   [
     [
-      {"name":"发光墨囊","link":"https://zh.minecraft.wiki/w/发光墨囊","icon":"/stylesheets/icons/glow_ink_sac.png"},
+      {"name":"发光墨囊","link":"https://zh.minecraft.wiki/w/发光墨囊","icon":"/stylesheets/icons/Glow_Ink_Sac.png"},
       None,
       None
     ],
     [
-      {"name":"末地烛","link":"https://zh.minecraft.wiki/w/末地烛","icon":"/stylesheets/icons/end_rod.png"},
+      {"name":"末地烛","link":"https://zh.minecraft.wiki/w/末地烛","icon":"/stylesheets/icons/End_Rod.png"},
       None,
       None
     ],
@@ -448,17 +448,17 @@ description: 这里是有关法术合成的帮助
   [
     [
       None,
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
       None
     ],
     [
-      {"name":"盾牌","link":"https://zh.minecraft.wiki/w/盾牌","icon":"/stylesheets/icons/shield.png"},
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
+      {"name":"盾牌","link":"https://zh.minecraft.wiki/w/盾牌","icon":"/stylesheets/icons/Shield.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
       None
     ],
     [
       None,
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
       None
     ]
   ],
@@ -473,17 +473,17 @@ description: 这里是有关法术合成的帮助
   [
     [
       None,
-      {"name":"岩浆膏","link":"https://zh.minecraft.wiki/w/岩浆膏","icon":"/stylesheets/icons/magma_cream.png"},
+      {"name":"岩浆膏","link":"https://zh.minecraft.wiki/w/岩浆膏","icon":"/stylesheets/icons/Magma_Cream.png"},
       None
     ],
     [
-      {"name":"岩浆膏","link":"https://zh.minecraft.wiki/w/岩浆膏","icon":"/stylesheets/icons/magma_cream.png"},
-      {"name":"指南针","link":"https://zh.minecraft.wiki/w/指南针","icon":"/stylesheets/icons/compass.gif"},
-      {"name":"岩浆膏","link":"https://zh.minecraft.wiki/w/岩浆膏","icon":"/stylesheets/icons/magma_cream.png"}
+      {"name":"岩浆膏","link":"https://zh.minecraft.wiki/w/岩浆膏","icon":"/stylesheets/icons/Magma_Cream.png"},
+      {"name":"指南针","link":"https://zh.minecraft.wiki/w/指南针","icon":"/stylesheets/icons/Compass.gif"},
+      {"name":"岩浆膏","link":"https://zh.minecraft.wiki/w/岩浆膏","icon":"/stylesheets/icons/Magma_Cream.png"}
     ],
     [
       None,
-      {"name":"岩浆膏","link":"https://zh.minecraft.wiki/w/岩浆膏","icon":"/stylesheets/icons/magma_cream.png"},
+      {"name":"岩浆膏","link":"https://zh.minecraft.wiki/w/岩浆膏","icon":"/stylesheets/icons/Magma_Cream.png"},
       None
     ]
   ],
@@ -496,17 +496,17 @@ description: 这里是有关法术合成的帮助
   [
     [
       None,
-      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/quartz.png"},
+      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/Quartz.png"},
       None
     ],
     [
-      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/quartz.png"},
-      {"name":"指南针","link":"https://zh.minecraft.wiki/w/指南针","icon":"/stylesheets/icons/compass.gif"},
-      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/quartz.png"}
+      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/Quartz.png"},
+      {"name":"指南针","link":"https://zh.minecraft.wiki/w/指南针","icon":"/stylesheets/icons/Compass.gif"},
+      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/Quartz.png"}
     ],
     [
       None,
-      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/quartz.png"},
+      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/Quartz.png"},
       None
     ]
   ],
@@ -520,19 +520,19 @@ description: 这里是有关法术合成的帮助
 {{- recipe(
   [
     [
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
       None,
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"}
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"}
     ],
     [
-      {"name":"兔子皮","link":"https://zh.minecraft.wiki/w/兔子皮","icon":"/stylesheets/icons/rabbit_hide.png"},
+      {"name":"兔子皮","link":"https://zh.minecraft.wiki/w/兔子皮","icon":"/stylesheets/icons/Rabbit_Hide.png"},
       None,
-      {"name":"兔子皮","link":"https://zh.minecraft.wiki/w/兔子皮","icon":"/stylesheets/icons/rabbit_hide.png"}
+      {"name":"兔子皮","link":"https://zh.minecraft.wiki/w/兔子皮","icon":"/stylesheets/icons/Rabbit_Hide.png"}
     ],
     [
-      {"name":"兔子脚","link":"https://zh.minecraft.wiki/w/兔子脚","icon":"/stylesheets/icons/rabbit_foot.png"},
+      {"name":"兔子脚","link":"https://zh.minecraft.wiki/w/兔子脚","icon":"/stylesheets/icons/Rabbit_Foot.png"},
       None,
-      {"name":"兔子脚","link":"https://zh.minecraft.wiki/w/兔子脚","icon":"/stylesheets/icons/rabbit_foot.png"}
+      {"name":"兔子脚","link":"https://zh.minecraft.wiki/w/兔子脚","icon":"/stylesheets/icons/Rabbit_Foot.png"}
     ]
   ],
   {"name":"兔子靴子","link":"#","icon":"/stylesheets/icons/Leather_Boots.png"}
@@ -552,17 +552,17 @@ description: 这里是有关法术合成的帮助
   [
     [
       None,
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
       None
     ],
     [
-      {"name":"钻石","link":"https://zh.minecraft.wiki/w/钻石","icon":"/stylesheets/icons/diamond.png"},
-      {"name":"书","link":"https://zh.minecraft.wiki/w/书","icon":"/stylesheets/icons/book.png"},
-      {"name":"绿宝石","link":"https://zh.minecraft.wiki/w/绿宝石","icon":"/stylesheets/icons/emerald.png"}
+      {"name":"钻石","link":"https://zh.minecraft.wiki/w/钻石","icon":"/stylesheets/icons/Diamond.png"},
+      {"name":"书","link":"https://zh.minecraft.wiki/w/书","icon":"/stylesheets/icons/Book.png"},
+      {"name":"绿宝石","link":"https://zh.minecraft.wiki/w/绿宝石","icon":"/stylesheets/icons/Emerald.png"}
     ],
     [None, None, None]
   ],
-  {"name":"法术书","link":"#","icon":"/stylesheets/icons/spellbook.jpg"}
+  {"name":"法术书","link":"#","icon":"/stylesheets/icons/spellBook.jpg"}
 ) -}}
 <p></p>
 ## 魔力护符
@@ -580,17 +580,17 @@ description: 这里是有关法术合成的帮助
   [
     [
       None,
-      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/quartz.png"},
+      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/Quartz.png"},
       None
     ],
     [
-      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/quartz.png"},
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
-      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/quartz.png"}
+      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/Quartz.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
+      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/Quartz.png"}
     ],
     [
       None,
-      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/quartz.png"},
+      {"name":"下界石英","link":"https://zh.minecraft.wiki/w/下界石英","icon":"/stylesheets/icons/Quartz.png"},
       None
     ]
   ],
@@ -605,13 +605,13 @@ description: 这里是有关法术合成的帮助
   [
     [
       None,
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
       None
     ],
     [
-      {"name":"钻石","link":"https://zh.minecraft.wiki/w/钻石","icon":"/stylesheets/icons/diamond.png"},
-      {"name":"木棍","link":"https://zh.minecraft.wiki/w/木棍","icon":"/stylesheets/icons/stick.png"},
-      {"name":"绿宝石","link":"https://zh.minecraft.wiki/w/绿宝石","icon":"/stylesheets/icons/emerald.png"}
+      {"name":"钻石","link":"https://zh.minecraft.wiki/w/钻石","icon":"/stylesheets/icons/Diamond.png"},
+      {"name":"木棍","link":"https://zh.minecraft.wiki/w/木棍","icon":"/stylesheets/icons/Stick.png"},
+      {"name":"绿宝石","link":"https://zh.minecraft.wiki/w/绿宝石","icon":"/stylesheets/icons/Emerald.png"}
     ],
     [None, None, None]
   ],
@@ -623,19 +623,19 @@ description: 这里是有关法术合成的帮助
 {{- recipe(
   [
     [
-      {"name":"钻石","link":"https://zh.minecraft.wiki/w/钻石","icon":"/stylesheets/icons/diamond.png"},
+      {"name":"钻石","link":"https://zh.minecraft.wiki/w/钻石","icon":"/stylesheets/icons/Diamond.png"},
       None,
-      {"name":"钻石","link":"https://zh.minecraft.wiki/w/钻石","icon":"/stylesheets/icons/diamond.png"}
+      {"name":"钻石","link":"https://zh.minecraft.wiki/w/钻石","icon":"/stylesheets/icons/Diamond.png"}
     ],
     [
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
       None,
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"}
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"}
     ],
     [
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"},
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"},
       None,
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"}
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"}
     ]
   ],
   {"name":"巫师靴子","link":"#","icon":"/stylesheets/icons/Chainmail_Boots.png"}
@@ -646,19 +646,19 @@ description: 这里是有关法术合成的帮助
 {{- recipe(
   [
     [
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"},
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"},
       None,
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"}
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"}
     ],
     [
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"},
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"}
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"}
     ],
     [
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"},
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"},
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"}
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"},
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"},
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"}
     ]
   ],
   {"name":"巫师长袍","link":"#","icon":"/stylesheets/icons/Chainmail_Chestplate.png"}
@@ -669,14 +669,14 @@ description: 这里是有关法术合成的帮助
 {{- recipe(
   [
     [
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"},
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"}
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"}
     ],
     [
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"},
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"},
       None,
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"}
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"}
     ],
     [None, None, None]
   ],
@@ -688,19 +688,19 @@ description: 这里是有关法术合成的帮助
 {{- recipe(
   [
     [
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"},
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"},
-      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/amethyst_shard.png"}
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"},
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"},
+      {"name":"紫水晶碎片","link":"https://zh.minecraft.wiki/w/紫水晶碎片","icon":"/stylesheets/icons/Amethyst_Shard.png"}
     ],
     [
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"},
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"},
       None,
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"}
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"}
     ],
     [
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"},
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"},
       None,
-      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/purple_wool.png"}
+      {"name":"紫色羊毛","link":"https://zh.minecraft.wiki/w/紫色羊毛","icon":"/stylesheets/icons/Purple_Wool.png"}
     ]
   ],
   {"name":"巫师裤子","link":"#","icon":"/stylesheets/icons/Chainmail_Leggings.png"}
